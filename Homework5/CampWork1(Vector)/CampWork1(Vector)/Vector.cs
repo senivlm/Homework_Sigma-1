@@ -330,7 +330,7 @@ namespace CampWork1_Vector_
         }
 
         public static void ReadHalfMasFromFile(string fileName/*, out Vector first, out Vector second*/)
-        {
+        {// чому все в коментарях
             //StreamReader sr = new StreamReader (fileName);
             //string line = sr.ReadToEnd();
             //string[] mas = line.Split(' ');
