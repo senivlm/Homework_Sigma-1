@@ -213,7 +213,7 @@ namespace CampWork1_Vector_
             Swap(ref array[pivot], ref array[maxIndex]);
             return pivot;
         }
-
+// Де вибір опорного елемента
         public int[] QuickSort(int[] array, int minIndex, int maxIndex)
         {
             if (minIndex >= maxIndex)
