@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using CampWork1_Vector_;
-
+//ваш номер 2
+//де реальний файл запуску
 //Pair pair1 = new Pair(2, 5);
 //Pair pair2 = new Pair(2, 5);
 //Pair pair3 = pair1;
