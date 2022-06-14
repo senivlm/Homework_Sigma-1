@@ -2,7 +2,7 @@
 using StringWorkAndElectricityClass;
 using System;
 using System.Globalization;
-
+//колонки могли бути і підписані
 Console.WriteLine("Hello, World!");
 
 /// <summary>
